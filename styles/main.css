@@ -1,9 +1,13 @@
-body{
-  background-color: #A1E1F8;
+.abody{
+  background-color: #3735FF;
 }
 
 h1{
   font-family: 'Shrikhand', cursive !important;
+}
+h3{
+  font-family: 'Josefin Slab', serif !important;
+  font-size: 17px !important;
 }
 
 h4{
@@ -36,17 +40,45 @@ a:active {
   margin:5%;
   background-color: #A1E1F8;
 }
-.cb {
-  margin:5%;
-}
 
 .padding/*Document padding -->*/{
     padding: 20px 20px 20px 20px;
 }
+
+.leftpadding{
+  padding-left: 20px
+}
+
 .body{
   color: #1953FF;
 }
 
 .heading{
   color: white;
+}
+
+.buttons{
+  height: 200px;
+  margin: 10px;
+  background-color: #3735FF;
+  margin: 20px 20px 20px 20px;
+}
+
+.colpadding{
+  margin: 20px 20px 20px 20px;
+
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #A1E1F8;
+    color: #3735FF;
+}
+
+.img-circ {
+    border-radius: 50%;
+    border: 6px solid #3735FF;
 }

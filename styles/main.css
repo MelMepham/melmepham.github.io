@@ -1,16 +1,21 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade|Rozha+One');
+</style>
+
 h1 {
-  font-family: 'Lobster', cursive;
+  font-family: 'Bungee Shade', cursive;
+  font-size: 35px;
   text-align: center;
 }
 
 h4 {
-  font-family: 'Lobster', cursive;
-  font-size: 20px;
+  font-family: 'Rozha One', serif;
+  font-size: 25px;
   margin-bottom: 5px;
 }
 
 p {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 10px;
+  font-size: 15px;
   margin-bottom: 2px;
 }

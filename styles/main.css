@@ -1,21 +1,52 @@
-<style>
-@import url('https://fonts.googleapis.com/css?family=Bungee+Shade|Rozha+One');
-</style>
-
-h1 {
-  font-family: 'Bungee Shade', cursive;
-  font-size: 35px;
-  text-align: center;
+body{
+  background-color: #A1E1F8;
 }
 
-h4 {
-  font-family: 'Rozha One', serif;
-  font-size: 25px;
-  margin-bottom: 5px;
+h1{
+  font-family: 'Shrikhand', cursive !important;
 }
 
-p {
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: 15px;
-  margin-bottom: 2px;
+h4{
+  font-family: 'Shrikhand', cursive !important;
+}
+
+p{
+  font-family: 'Kreon', serif;
+}
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FDA8F2 !important;
+    text-decoration: none !important;
+}
+a:active {
+  color: white;
+  text-decoration: none;
+}
+
+.ca {
+  margin:5%;
+  background-color: #A1E1F8;
+}
+.cb {
+  margin:5%;
+}
+
+.padding/*Document padding -->*/{
+    padding: 20px 20px 20px 20px;
+}
+.body{
+  color: #1953FF;
+}
+
+.heading{
+  color: white;
 }

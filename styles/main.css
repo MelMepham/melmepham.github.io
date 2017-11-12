@@ -70,15 +70,19 @@ a:active {
 }
 
 .footer {
-    position: fixed;
+    position: centre;
     left: 0;
     bottom: 0;
-    width: 100%;
     background-color: #A1E1F8;
     color: #3735FF;
+    margin: 0px 60px 60px 60px; 
 }
 
 .img-circ {
     border-radius: 50%;
     border: 6px solid #3735FF;
+}
+
+.margin {
+    margin: 70px 70px 70px 70px;
 }

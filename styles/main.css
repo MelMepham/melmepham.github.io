@@ -22,11 +22,7 @@ p{
     text-align: justify;
     text-justify: inter-word;
 }
-li{
-    font-family: 'Slabo 27px', serif !important;
-    text-align: justify;
-    text-justify: inter-word;
-}
+
 a:link {
     color: #333333 !important;
     text-decoration: none;
